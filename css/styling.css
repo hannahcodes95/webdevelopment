@@ -19,4 +19,9 @@ img {
 
 h3 {
   color: #66BFBF;
+  text-align: center;
+}
+
+table {
+   text-align: center;
 }
